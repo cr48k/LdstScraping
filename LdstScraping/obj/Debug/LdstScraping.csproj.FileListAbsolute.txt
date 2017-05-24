@@ -1,0 +1,9 @@
+C:\Users\croagunk\Source\Repos\LdstScraping\LdstScraping\bin\Debug\LdstScraping.exe.config
+C:\Users\croagunk\Source\Repos\LdstScraping\LdstScraping\bin\Debug\LdstScraping.exe
+C:\Users\croagunk\Source\Repos\LdstScraping\LdstScraping\bin\Debug\LdstScraping.pdb
+C:\Users\croagunk\Source\Repos\LdstScraping\LdstScraping\obj\Debug\LdstScraping.csprojResolveAssemblyReference.cache
+C:\Users\croagunk\Source\Repos\LdstScraping\LdstScraping\obj\Debug\LdstScraping.mainForm.resources
+C:\Users\croagunk\Source\Repos\LdstScraping\LdstScraping\obj\Debug\LdstScraping.Properties.Resources.resources
+C:\Users\croagunk\Source\Repos\LdstScraping\LdstScraping\obj\Debug\LdstScraping.csproj.GenerateResource.Cache
+C:\Users\croagunk\Source\Repos\LdstScraping\LdstScraping\obj\Debug\LdstScraping.exe
+C:\Users\croagunk\Source\Repos\LdstScraping\LdstScraping\obj\Debug\LdstScraping.pdb
